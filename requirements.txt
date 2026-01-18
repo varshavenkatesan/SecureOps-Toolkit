@@ -1,0 +1,9 @@
+# SecureOps Toolkit - Python Requirements
+
+# Web Vulnerability Scanner Dependencies
+requests>=2.31.0
+
+# Optional: For colored terminal output
+colorama>=0.4.6
+
+# Optional: For better CLI experience
